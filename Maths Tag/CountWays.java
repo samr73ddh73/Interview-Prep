@@ -2,8 +2,6 @@
 
 
 import java.util.*;
-import java.lang.*;
-import java.io.*;
 
 class CountWays {
     public static int bruteForce(int n)
